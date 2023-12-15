@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitbard3&label=Profile%20views&color=0e75b6&style=flat" alt="bitbard3" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bitbard3" target="blank"><img src="https://img.shields.io/twitter/follow/bitbard3?logo=twitter&style=for-the-badge" alt="bitbard3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ansh3839" target="blank"><img src="https://img.shields.io/twitter/follow/bitbard3?logo=twitter&style=for-the-badge" alt="bitbard3" /></a> </p>
 
 - 🔭 I’m currently working on **A flask based blog site**
 
